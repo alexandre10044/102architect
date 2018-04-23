@@ -24,4 +24,5 @@ transfo arg1 [arg2]
 -s α : symmetry about the axis passing by 0 and inclined with an α-degree angle.
 
 Example:
+
 ![alt text](https://github.com/alexandre10044/102architect/blob/master/example.png?raw=true)
